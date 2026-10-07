@@ -1,0 +1,8 @@
+  # Dark study dashboard: near-black background, violet accent
+  [theme]
+  base = "dark"
+  primaryColor = "#8B7CF6"
+  backgroundColor = "#0D0F14"
+  secondaryBackgroundColor = "#171A22"
+  textColor = "#E8E9F0"
+  font = "sans serif"
