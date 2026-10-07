@@ -1,0 +1,9 @@
+  # Local connection settings (server link + access key)
+  app/server.json
+
+  __pycache__/
+  *.pyc
+  .venv/
+  venv/
+  .DS_Store
+  .ipynb_checkpoints/
